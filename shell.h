@@ -22,7 +22,11 @@
 #define min(x, y) (((x) < (y)) ? (x) : (y))
 
 /**
+<<<<<<< HEAD
  *struct map - a struct that maps a command name to a function
+=======
+ * struct map - a struct that maps a command name to a function
+>>>>>>> 3cad64f04bb4ace7a67b7b35aabe8836e64641cc
  *
  *@command_name: name of the command
  *@func: the function that executes the command
